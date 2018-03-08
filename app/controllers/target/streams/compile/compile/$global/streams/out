@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/app/controllers/HomeController.java:3:1: package play.mvc does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport play.mvc.*;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/app/controllers/HomeController.java:9:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Controller[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class HomeController extends Controller {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/app/controllers/HomeController.java:17:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Result[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m    public Result index() {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/app/controllers/HomeController.java:18:1: package views.html does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(views.html.index.render());[0m
